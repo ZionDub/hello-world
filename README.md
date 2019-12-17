@@ -3,4 +3,4 @@ Hello World repository
 
 Hi!
 
-I'm Leandro, I like music and am learning programming.
+My name is Leandro, I like music and want to learn programming.
